@@ -3,7 +3,7 @@ Mycraft is a vanilla overhaul mod which makes some changes to early-to-late game
 
 REQUIRES FABRIC
 
-Food Changes:
+# Food Changes:
 
 -Food takes different time to eat.
 
@@ -15,7 +15,7 @@ Food Changes:
 
 
 
-Armor Changes:
+# Armor Changes:
 
 -Armor is forged with plates made from leather and the respective ingot.
 
