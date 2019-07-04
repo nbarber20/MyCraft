@@ -21,7 +21,9 @@ REQUIRES FABRIC
 
 -Leather must be tanned to create leather plates and armor.
 
-Animal Changes:
+
+
+# Animal Changes:
 
 -Animals have can be happy/sad.
 
@@ -37,13 +39,13 @@ Animal Changes:
 
  
 
-Recipe Changes:
+# Recipe Changes:
 
 -Smokers can no longer be created, they only spawn in villages.
 
  
 
-Compass Changes:
+# Compass Changes:
 
 -Compasses point towards a players spawn point.
 
